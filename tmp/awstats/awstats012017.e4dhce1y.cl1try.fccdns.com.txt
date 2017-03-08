@@ -1,0 +1,374 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home/e4dhce1ycl1try/tmp/awstats/awstats.e4dhce1y.cl1try.fccdns.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2702                
+POS_VISITOR 7924                
+POS_DAY 8932                
+POS_DOMAIN 3360                
+POS_LOGIN 3649                
+POS_ROBOT 3804                
+POS_WORMS 3992                
+POS_EMAILSENDER 4123                
+POS_EMAILRECEIVER 4266                
+POS_SESSION 9072                
+POS_SIDER 9257                
+POS_FILETYPES 4401                
+POS_DOWNLOADS 4640                
+POS_OS 4688                
+POS_BROWSER 4814                
+POS_SCREENSIZE 4956                
+POS_UNKNOWNREFERER 5030                
+POS_UNKNOWNREFERERBROWSER 5356                
+POS_ORIGIN 5574                
+POS_SEREFERRALS 5712                
+POS_PAGEREFS 5856                
+POS_SEARCHWORDS 6004                
+POS_KEYWORDS 6156                
+POS_MISC 2366                
+POS_ERRORS 6215                
+POS_CLUSTER 3505                
+POS_SIDER_404 6352                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170111105237 1681 513884 18203253503004
+FirstTime 0
+LastTime 20170111105235
+LastUpdate 20170111203327 1681 0 1681 0 0
+TotalVisits 35                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 5 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 261 346 9691346 11 11 137840
+1 49 61 102293 4 4 224577
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 6 6 354 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 2 3 76067 0 0 0
+11 22 61 1678009 0 0 0
+12 91 146 5168417 7 7 112024
+13 8 40 863280 0 3 0
+14 28 40 1452582 1 2 0
+15 16 17 506181 2 2 0
+16 34 70 1321469 6 23 710562
+17 93 139 5146127 15 45 1670431
+18 158 328 8863890 11 11 103138
+19 131 181 4211000 6 6 0
+20 55 55 2771 0 0 0
+21 252 508 17441483 21 22 0
+22 387 597 19076191 44 45 61430
+23 216 346 9401067 8 8 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+tw 1757 2884 84043994
+us 33 41 241349
+cn 12 12 661301
+zz 6 6 453
+hk 1 1 55430
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+google[_+\s]web[_+\s]preview 16 593681 20170110162656 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 343 2517146 0 0
+css 207 1560442 0 0
+svg 3 3042 0 0
+Unknown 15 1068 0 0
+png 166 7170183 0 0
+php 1207 33511474 0 0
+html 587 32664790 0 0
+gif 42 31894 0 0
+jpg 374 7542488 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linux 3 2
+win8 19 5
+winxp 15 15
+win7 2864 1751
+Unknown 43 36
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome55.0.2883.87 2883 1756
+mozilla 6 6
+chrome49.0.2623.75 3 2
+msie6.0 15 15
+Unknown 37 30
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20170110063811
+WordPress/4.7;_http://e4dhce1y.cl1try.fccdns.com 20170111105235
+Go-http-client/1.1 20170110063758
+Cpanel-HTTP-Client/1.0 20170110011728
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.7;_http://e4dhce1y.cl1try.fccdns.com 20170111105235
+Go-http-client/1.1 20170110063758
+Cpanel-HTTP-Client/1.0 20170110011728
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 69 70
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1740 2874
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 112 176702
+404 43 2237423
+403 1 3516
+500 10 8680
+301 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/manage/delete.php 1 http://e4dhce1y.cl1try.fccdns.com/manage/manage.php
+/ 2 -
+/contact.js 2 http://e4dhce1y.cl1try.fccdns.com/
+/delete.php 1 http://e4dhce1y.cl1try.fccdns.com/manage.php
+/test1/insert.php 2 http://e4dhce1y.cl1try.fccdns.com/test1/
+/test1/contact.js 13 http://e4dhce1y.cl1try.fccdns.com/test1/
+/contact.css 2 http://e4dhce1y.cl1try.fccdns.com/
+/sample-page/contact.js 2 http://e4dhce1y.cl1try.fccdns.com/sample-page/
+/test1/contact.css 9 http://e4dhce1y.cl1try.fccdns.com/test1/
+/public_html/ 1 -
+/%e7%94%a2%e5%93%81%e6%96%b0%e8%81%9e/ 1 http://e4dhce1y.cl1try.fccdns.com/2017/01/09/hello-world/
+/%e9%80%a3%e7%b5%a1/contact.js 1 http://e4dhce1y.cl1try.fccdns.com/%e9%80%a3%e7%b5%a1/
+/sample-page/contact.css 2 http://e4dhce1y.cl1try.fccdns.com/sample-page/
+/wp-content/uploads/2017/01/%E5%82%BE%E5%AE%B6%E9%87%80%E9%AE%AE%E6%B4%BB%E9%86%8Bcropped-1050811%E6%A9%AB%E5%B9%85%E7%B2%89%E7%B5%B2%E5%9C%98-02.jpg 1 http://e4dhce1y.cl1try.fccdns.com/wp-content/uploads/2017/01/%E5%82%BE%E5%AE%B6%E9%87%80%E9%AE%AE%E6%B4%BB%E9%86%8Bcropped-1050811%E6%A9%AB%E5%B9%85%E7%B2%89%E7%B5%B2%E5%9C%98-02.jpg
+/%e9%80%a3%e7%b5%a1/contact.css 1 http://e4dhce1y.cl1try.fccdns.com/%e9%80%a3%e7%b5%a1/
+/manage.php 2 http://e4dhce1y.cl1try.fccdns.com/manage/insert.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+203.64.104.25 1751 2864 83404589 20170111005338
+192.154.197.11 24 31 56130 20170111105235 20170111105235 /wp-cron.php
+172.28.1.1 6 6 453 20170110011728
+66.133.109.36 6 6 522 20170110063811
+140.127.114.58 5 19 583975 20170110140335
+183.224.71.130 1 1 54859 20170110214056
+106.226.239.223 1 1 55476 20170110230244
+144.255.33.109 1 1 54859 20170110220343
+111.74.88.122 1 1 54859 20170110213644
+107.170.107.176 1 1 54859 20170110212720
+45.114.10.225 1 1 55430 20170110230548
+42.85.2.115 1 1 55430 20170110231648
+66.102.6.69 1 1 74919 20170111105235 20170111105235 /
+111.253.29.165 1 1 55430 20170110230622
+111.122.191.7 1 1 54859 20170110214816
+183.252.16.65 1 1 55430 20170110230759
+1.180.212.118 1 1 55476 20170110230430
+61.131.227.147 1 1 54859 20170110213909
+66.102.6.65 1 1 53771 20170110162653
+123.172.119.136 1 1 54859 20170110214855
+59.46.213.125 1 1 54859 20170110214926
+182.84.67.8 1 1 55476 20170110230109
+66.102.6.67 0 1 1148 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20170109 86 152 5021047 2
+20170110 1556 2539 70438836 29
+20170111 167 253 9542644 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 1
+30mn-1h 4
+1h+ 3
+0s-30s 24
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 73
+/wp-admin/admin-ajax.php 587 738592 1 2
+/ 208 11640534 19 16
+/manage.php 103 345236 0 2
+/%e7%94%a2%e5%93%81/ 95 5449566 0 0
+/wp-admin/post.php 87 10895273 0 0
+/test1/ 80 4419600 0 0
+/sample-page/ 71 3882226 0 0
+/wp-admin/edit.php 52 2658660 0 0
+/%e9%80%a3%e7%b5%a1/ 40 2061833 1 2
+/wp-admin/load-scripts.php 35 2388286 0 0
+/wp-admin/ 33 1784367 0 0
+/wp-admin/nav-menus.php 32 2312496 0 0
+/delete.php 28 7330 0 0
+/wp-admin/themes.php 26 1311195 0 0
+/insert.php 25 9947 0 0
+/wp-admin/plugins.php 24 1076243 0 0
+/wp-admin/admin.php 24 1299248 0 0
+/wp-admin/upload.php 22 1278096 0 0
+/%e9%a6%96%e9%a0%81/ 21 1081013 0 0
+/wp-cron.php 20 0 7 7
+/2017/01/09/hello-world/ 15 911604 1 0
+/wp-admin/customize.php 14 3411341 0 0
+/wp-admin/index.php 11 601078 0 0
+/wp-admin/load-styles.php 10 1083170 0 0
+/wp-admin/options-general.php 9 567958 0 0
+/wp-admin/plugin-editor.php 2 73004 0 0
+/2017/01/10/max-%e5%8f%96%e5%90%8d%e7%9b%b8%e7%89%87%e9%9b%86-gallery__trashed/s__4276231/ 1 58278 0 0
+/wp-login.php 1 2920 0 0
+/wp-admin/async-upload.php 8 11621 0 0
+/wp-admin/options-media.php 3 78534 0 0
+/140386.BIN_AUTOSSL_CHECK_PL__.UDg_dhxz.cpaneldcv 1 64 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 343696 0 0
+/2017/01/09/hello-world/s__4276231/ 1 57917 0 0
+/s__4276232/ 1 57813 0 0
+/wp-admin/widgets.php 6 472015 0 0
+/2017/01/10/max-%e5%8f%96%e5%90%8d%e7%9b%b8%e7%89%87%e9%9b%86-gallery/cropped-s__4276232-jpg/ 1 58447 0 0
+/manage/manage.php 8 31465 0 0
+/wp-admin/options-writing.php 4 112894 0 0
+/wp-admin/options-reading.php 5 142743 0 0
+/.well-known/acme-challenge/plugin-test-1484001475713557032 1 31 1 0
+/wp-admin/tools.php 3 98554 0 0
+/wp-admin/options-discussion.php 3 104076 0 0
+/wp-admin/plugin-install.php 5 352293 0 0
+/wp-admin/theme-install.php 4 172771 0 0
+/.well-known/acme-challenge/plugin-test-1484001478028274808 1 31 0 1
+/140386.BIN_AUTOSSL_CHECK_PL__.EZufk845.cpaneldcv 1 64 0 0
+/.well-known/acme-challenge/KHnQ43dI8FBRIVxsJT1NOdN8sb-MruIvN1fFmh6puOs 1 87 0 1
+/wp-admin/setup-config.php 3 6537 1 0
+/wp-admin/media-new.php 1 28876 0 0
+/.well-known/acme-challenge/plugin-test-1484001476887109908 1 31 0 0
+/%e7%94%a2%e5%93%81%e6%96%b0%e8%81%9e/ 4 223855 0 0
+/wp-admin/post-new.php 8 1026590 0 0
+/cropped-s__4276232-jpg/ 7 423049 0 0
+/2017/01/10/max-%e5%8f%96%e5%90%8d%e7%9b%b8%e7%89%87%e9%9b%86-gallery__trashed/cropped-s__4276232-jpg/ 6 357719 0 0
+/wp-admin/comment.php 1 37312 0 0
+/.well-known/acme-challenge/r66c-yETSRClyjubf7T1f2PlGUv8smjOnnUDTyIowGk 2 174 0 2
+/cropped-1050811%e6%a9%ab%e5%b9%85%e7%b2%89%e7%b5%b2%e5%9c%98-02-jpg/ 1 58809 0 0
+/wp-admin/update.php 6 134220 0 0
+/2017/01/10/max-%e5%8f%96%e5%90%8d%e7%9b%b8%e7%89%87%e9%9b%86-gallery/ 1 63454 0 0
+/update.php 6 991 0 0
+/insert1.php 5 1817 0 0
+/wp-admin/options-permalink.php 4 114824 0 0
+/wp-admin/users.php 2 66636 0 0
+/wp-admin/install.php 2 12014 0 0
+/.well-known/acme-challenge/N5dCg5Uo7lOe_Fat2-M8DFyFQTQqWg7ed5ingPFNFjU 2 174 1 0
+/.well-known/acme-challenge/wQLTKp9FKtUOLSSFBeww4CjIE6SNe9FcGl6r1lAwJ5Q 1 87 0 0
+/.well-known/acme-challenge/DRyijZOOb9_xiig8txDXpaYIt-9nO41KrT38bZWsLjI 1 87 1 0
+/main.php 3 2805 1 0
+/wp-admin/edit-comments.php 2 97746 0 0
+/.well-known/acme-challenge/7LmD5QWxcXDP8naOUNbGUDrpABBj-n9PdtlEqiqN7Bw 2 174 0 0
+/2017/01/ 1 74706 0 0
+/manage/insert.php 1 371 0 0
+/140386.BIN_AUTOSSL_CHECK_PL__.27EbfyrW.cpaneldcv 1 64 1 0
+END_SIDER

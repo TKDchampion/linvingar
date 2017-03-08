@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>優比科技有限公司 / UBE Website </title>
+    <meta charset="utf-8" /> </head>
+
+<body>
+    <form id="form1" runat="server"> 欲詢問10秒後將為您轉接專員FB私訊為您服務!
+        <div id='div1'> </div>
+    </form>
+</body>
+<script type="text/javascript">
+    //設定倒數秒數
+    var t = 10;
+    //顯示倒數秒收
+    function showTime() {
+        t -= 1;
+        document.getElementById('div1').innerHTML = t;
+        if (t == 0) {
+            location.href = 'https://www.facebook.com/profile.php?id=100000405256727';
+        }
+        //每秒執行一次,showTime()
+        setTimeout("showTime()", 1000);
+    }
+    //執行showTime()
+    showTime();
+</script>
+
+</html>

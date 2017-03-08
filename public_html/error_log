@@ -1,0 +1,8 @@
+[16-Jan-2017 14:13:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/linvinegarcom/public_html/insert1.php on line 28
+[16-Jan-2017 14:23:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/linvinegarcom/public_html/insert1.php on line 28
+[16-Jan-2017 14:23:40 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/linvinegarcom/public_html/insert1.php on line 28
+[23-Jan-2017 13:48:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in /home/linvinegarcom/public_html/insert1.php on line 45
+[23-Jan-2017 13:52:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in /home/linvinegarcom/public_html/insert1.php on line 45
+[10-Feb-2017 16:45:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/linvinegarcom/public_html/cancel.php on line 24
+[10-Feb-2017 16:46:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/linvinegarcom/public_html/cancel.php on line 24
+[10-Feb-2017 16:46:46 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/linvinegarcom/public_html/cancel.php on line 24

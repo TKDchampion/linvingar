@@ -1,0 +1,275 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/linvinegarcom/tmp/awstats/ssl/awstats.linvinegar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2696                
+POS_VISITOR 6457                
+POS_DAY 6982                
+POS_DOMAIN 3242                
+POS_LOGIN 3496                
+POS_ROBOT 3651                
+POS_WORMS 3820                
+POS_EMAILSENDER 3951                
+POS_EMAILRECEIVER 4094                
+POS_SESSION 7066                
+POS_SIDER 7245                
+POS_FILETYPES 4229                
+POS_DOWNLOADS 4397                
+POS_OS 4445                
+POS_BROWSER 4568                
+POS_SCREENSIZE 4732                
+POS_UNKNOWNREFERER 4806                
+POS_UNKNOWNREFERERBROWSER 5033                
+POS_ORIGIN 5228                
+POS_SEREFERRALS 5362                
+POS_PAGEREFS 5517                
+POS_SEARCHWORDS 5665                
+POS_KEYWORDS 5817                
+POS_MISC 2359                
+POS_ERRORS 5876                
+POS_CLUSTER 3352                
+POS_SIDER_404 5975                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170306190734 8 1225 10552824434305
+FirstTime 20170301112247
+LastTime 20170301200307
+LastUpdate 20170306200310 8 0 8 0 0
+TotalVisits 11                  
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 18 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 3 5 169106
+3 0 0 0 1 1 83952
+4 0 0 0 1 1 83952
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 1 1 870
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 1 1 0 1 1 83798
+12 0 0 0 0 0 0
+13 0 0 0 1 3 96764
+14 0 0 0 1 1 78437
+15 7 45 3921130 6 13 0
+16 0 0 0 1 1 83952
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 13 110 7702004 2 16 442342
+20 3 3 242316 4 7 293701
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 4 5 293817
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+tw 18 140 11510797
+jp 4 17 354653
+us 2 2 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 16 682775 20170306190734 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+js 71 1158605 0 0
+png 13 19461 0 0
+php 2 0 0 0
+html 22 1788010 0 0
+css 14 637490 0 0
+jpg 37 8261884 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+ios_iphone 17 1
+linuxandroid 78 10
+Unknown 19 6
+win7 45 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+netscape6.0 1 0
+chrome56.0.2924.87 85 13
+chrome28.0.1500.94 20 3
+Unknown 18 6
+safari10.0 17 1
+chrome30.0.0.0 18 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+facebookexternalhit/1.1;line-poker/1.0 20170301193851
+WordPress/4.7.2;_https://www.linvinegar.com 20170301193816
+Mozilla/6.0 20170301193850
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+facebookexternalhit/1.1;line-poker/1.0 20170301193851
+WordPress/4.7.2;_https://www.linvinegar.com 20170301193816
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 14 26
+From1 0 0
+From2 3 3
+From3 0 0
+From4 7 130
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 14 1027916
+500 7 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/apple-touch-icon.png 3 -
+/.well-known/apple-app-site-association 4 -
+/apple-touch-icon-precomposed.png 3 -
+/apple-app-site-association 2 -
+/.well-known/assetlinks.json 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+106.1.86.51 6 40 2664018 20170301200307
+60.249.26.215 4 23 1999599 20170301151552
+39.9.71.0 3 20 1932723 20170301194731
+203.64.105.144 3 22 1921531 20170301152153
+203.104.145.40 2 3 169093 20170301193844
+192.154.197.11 2 2 0 20170301193816
+203.104.145.59 1 1 83798 20170301193844
+27.52.45.48 1 18 1771179 20170301194005
+110.28.150.12 1 17 1221747 20170301193817
+203.104.145.48 1 7 92780 20170301193843
+203.104.145.39 0 3 4491 
+203.104.145.30 0 3 4491 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20170301 24 159 11865450 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 1
+15mn-30mn 1
+0s-30s 7
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/2017/01/13/ 10 807720 3 3
+/2017/01/13/%E5%82%BE%E5%AE%B6%E9%87%80%E5%84%AA%E6%83%A0/ 5 418990 4 4
+/wp-cron.php 2 0 2 2
+/sample-page/ 2 156874 0 1
+/ 2 167904 2 0
+/%e7%ab%8b%e5%8d%b3%e8%a8%82%e8%b3%bc/ 1 79227 0 0
+/%e8%b3%bc%e7%89%a9%e8%aa%aa%e6%98%8e/ 1 78835 0 1
+/category/a/ 1 78460 0 0
+END_SIDER

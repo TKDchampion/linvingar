@@ -1,0 +1,239 @@
+# Webalizer V2.23-05 Incremental Data - 02/10/2017 16:46:24
+2017 2 10 16 46 24
+80 80 2 57 0 0 1308039 3 1 1
+1 10 50 6 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+49 49 1258191 1 3 1
+1 1 1249 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+30 30 48599 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 2744 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 8 24931 0
+7 7 8003 0
+1 1 1067 0
+49 49 1258191 3
+10 10 11854 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 1249 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+80
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/linvinegarcom/public_html/ube/elements.html
+0 1 0 16687 0 0
+/home/linvinegarcom/public_html/ube/sass/ie8.scss
+0 1 0 863 0 0
+/home/linvinegarcom/public_html/ube/sass/main.scss
+0 1 0 1214 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_split.scss
+0 1 0 1478 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_image.scss
+0 1 0 886 0 0
+/home/linvinegarcom/public_html/ube/sass/libs/_vars.scss
+0 1 0 1040 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_icon.scss
+0 1 0 1014 0 0
+/home/linvinegarcom/public_html/ube/sass/libs/_skel.scss
+0 1 0 16468 0 0
+/home/linvinegarcom/public_html/ube/README.txt
+0 1 0 1186 0 0
+/home/linvinegarcom/public_html/ube/css/ie9.css
+0 1 0 1093 0 0
+/home/linvinegarcom/public_html/insert.php
+0 1 23805408 1256 0 0
+/home/linvinegarcom/public_html/ube/css/font-awesome.min.css
+0 1 0 29063 0 0
+/home/linvinegarcom/public_html/ube/sass/base/_page.scss
+0 1 0 817 0 0
+/home/linvinegarcom/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php
+0 1 23804688 662 0 0
+/home/linvinegarcom/public_html/ube/images/pic02.jpg
+0 1 0 5767 0 0
+/home/linvinegarcom/public_html/ube/sass/ie9.scss
+0 1 0 1368 0 0
+/home/linvinegarcom/public_html/wp-content/themes/twentyseventeen/sample-template.php
+0 8 23805088 24931 0 0
+/home/linvinegarcom/public_html/wp-content/themes/twentyseventeen/footer.php
+0 1 11643590912 1290 0 0
+/home/linvinegarcom/public_html/ube/
+0 1 0 6714 1 0
+/home/linvinegarcom/public_html/ube/css/images/intro.svg
+0 1 0 862 0 0
+/home/linvinegarcom/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php
+0 2 23804896 792 0 0
+/home/linvinegarcom/public_html/ube/images/2.jpg
+0 1 0 132844 0 0
+/home/linvinegarcom/public_html/ube/sass/layout/_header.scss
+0 1 0 1584 0 0
+/home/linvinegarcom/public_html/ube/sass/layout/_footer.scss
+0 1 0 614 0 0
+/home/linvinegarcom/public_html/ube/one.html
+0 1 0 789 0 0
+/home/linvinegarcom/public_html/ube/generic.html
+0 1 0 2862 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_section.scss
+0 1 0 744 0 0
+/home/linvinegarcom/public_html/ube/images/pic04.jpg
+0 1 0 12171 0 0
+/home/linvinegarcom/public_html/delete.php
+0 1 23805552 1199 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_table.scss
+0 1 0 1398 0 0
+/home/linvinegarcom/public_html/ube/sass/layout/_sidebar.scss
+0 1 0 3763 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_spotlights.scss
+0 1 0 2461 0 0
+/home/linvinegarcom/public_html/ube/images/pic01.jpg
+0 1 0 6953 0 0
+/home/linvinegarcom/public_html/insert1.php
+0 6 0 7471 0 0
+/home/linvinegarcom/public_html/ube/fonts/fontawesome-webfont.woff2
+0 1 0 71896 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_box.scss
+0 1 0 532 0 0
+/home/linvinegarcom/public_html/ube/css/main.css
+0 1 0 70336 0 0
+/home/linvinegarcom/public_html/cancel.php
+0 11 23805264 12247 0 0
+/home/linvinegarcom/public_html/ube/fonts/FontAwesome.otf
+0 1 0 124988 0 0
+/home/linvinegarcom/public_html/ube/fonts/fontawesome-webfont.svg
+0 1 0 391622 0 0
+/home/linvinegarcom/public_html/ube/sass/libs/_mixins.scss
+0 1 0 1723 0 0
+/home/linvinegarcom/public_html/ube/sass/base/_typography.scss
+0 1 0 3420 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_features.scss
+0 1 0 1989 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_form.scss
+0 1 0 4099 0 0
+/home/linvinegarcom/public_html/ube/images/pic05.jpg
+0 1 0 2527 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_wrapper.scss
+0 1 0 2389 0 0
+/home/linvinegarcom/public_html/ube/images/1.jpg
+0 1 0 204130 0 0
+/home/linvinegarcom/public_html/ube/fonts/fontawesome-webfont.woff
+0 1 0 90412 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_button.scss
+0 1 0 2151 0 0
+/home/linvinegarcom/public_html/ube/sass/libs/_functions.scss
+0 1 0 787 0 0
+/home/linvinegarcom/public_html/ube/css/ie8.css
+0 1 0 790 0 0
+/home/linvinegarcom/public_html/ube/sass/layout/_intro.scss
+0 1 0 615 0 0
+/home/linvinegarcom/public_html/ube/images/pic06.jpg
+0 1 0 2798 0 0
+/home/linvinegarcom/public_html/ube/sass/components/_list.scss
+0 1 0 3814 0 0
+/home/linvinegarcom/public_html/ube/sass/layout/_wrapper.scss
+0 1 0 514 0 0
+/home/linvinegarcom/public_html/ube/LICENSE.txt
+0 1 0 17128 0 0
+/home/linvinegarcom/public_html/ube/images/pic03.jpg
+0 1 0 6828 0 0
+# End Of Table - urls
+# -sites- (monthly)
+203.64.104.25
+0 30 30 48599 0 0
+-
+106.1.3.14
+0 50 50 1259440 1 1486395370
+/home/linvinegarcom/public_html/ube/README.txt
+# End Of Table - sites (monthly)
+# -sites- (daily)
+203.64.104.25
+0 30 30 48599 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+linvinegarcom
+0 80 80 1308039 2 1486395370
+# End Of Table - usernames
